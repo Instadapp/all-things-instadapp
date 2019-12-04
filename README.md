@@ -24,7 +24,7 @@ Below is a collection of data and information for anyone interested in exploring
 - 25/10/2019: [The 19 and 21 Year-Old Crypto Native Brothers Rebuilding Finance](https://thedefiant.substack.com/p/the-19-and-21-year-old-crypto-native-552) by Camila Russo 
 - 18/10/2019: [How Kids will Bank](https://medium.com/instadapp/how-kids-will-bank-36d39d07c63d) by Vishva Dave
 - 09/10/2019: [What is InstaDApp?](https://www.veradiverdict.com/p/what-is-instadapp) by Paul Veradittakit
-- 12/07/2019: [Weekly Crypto Recap – Bridging DeFi](https://research.circle.com/weekly-recaps/weekly-crypto-recap-bridging-defi)
+- 12/07/2019: [Weekly Crypto Recap – Bridging DeFi](https://research.circle.com/weekly-recaps/weekly-crypto-recap-bridging-defi) by Ria Bhutoria
 - 20/06/2019: [Integrations & Utilities](https://medium.com/instadapp/integration-utilities-1189f688ccc1) by Sebastian Gutierrez
 - 11/06/2019: [The Bridge between MakerDAO and Compound](https://medium.com/instadapp/bridge-protocols-eb14b2dd0fe7) by Samyak Jain
 - 15/03/2019: [What if you mint $? Not the federal reserve. Future?](https://medium.com/instadapp/what-if-you-create-dollar-80feae24b0c8) by Samyak Jain
