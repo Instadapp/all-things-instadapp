@@ -50,7 +50,7 @@ Below is a collection of data and information for anyone interested in exploring
 
 
 ## Security Audits
-Audit by OpenZepplin Secutity
+Audit by OpenZepplin Security
 - [InstaDApp Audit](https://blog.openzeppelin.com/instadapp-audit/)
 - [InstaDApp Audit Summary](https://blog.openzeppelin.com/instadapp-audit-summary/)
 
