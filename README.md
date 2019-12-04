@@ -56,7 +56,6 @@ Audit by OpenZepplin Secutity
 
 
 ## Timeline of Events
-- 
 - 28/11/2019: [Launching Compound Finance Migration Bridge](https://twitter.com/InstaDApp/status/1200079870014849024)
 - 20/11/2019: [Launching "Dai Migration Tools" for Giant CDPs](https://twitter.com/InstaDApp/status/1196855953649369088)
 - 18/11/2019: [Launched support for MCD](https://twitter.com/InstaDApp/status/1196457416147161091)
