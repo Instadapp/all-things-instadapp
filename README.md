@@ -67,7 +67,7 @@ Audit by OpenZepplin Security
 - 16/07/2019: ["Leverage and Save" feature introduced for Compound](https://twitter.com/InstaDApp/status/1150868593032085505)
 - 15/07/2019: ["Save" feature for Compound Positions](https://twitter.com/InstaDApp/status/1150577157313196032)
 - 09/07/2019: [Launch of Protocol Bridge](https://twitter.com/InstaDApp/status/1148299303003119616)
-- 06/06/2019: [Launched support for InstaDApp](https://twitter.com/InstaDApp/status/1136353072345538560)
+- 06/06/2019: [Launched support for Compound Finance](https://twitter.com/InstaDApp/status/1136353072345538560)
 - 21/05/2019: [Milestone: Listed on DefiPulse at #9](https://twitter.com/scott_lew_is/status/1130846205938999296)
 - 07/05/2019: ["Leverage and Save" feature introduced for MakerDAO](https://twitter.com/InstaDApp/status/1125476338733682689)
 - 23/04/2019: [Launched "Uniswap support"](https://twitter.com/InstaDApp/status/1120395191242903554)
