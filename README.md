@@ -5,7 +5,7 @@ InstaDApp is built with the idea to simplify Decentralized Finance for the masse
 Below is a collection of data and information for anyone interested in exploring InstaDApp from all around the web, this will be updated regularly.
 
 ## Official Property
-- [InstaDApp Website](https://instadapp.io/)
+- [Website](https://instadapp.io/)
 - [GitHub](https://github.com/InstaDApp) 
 
 ## Official Handles
@@ -36,12 +36,12 @@ Below is a collection of data and information for anyone interested in exploring
 - 28/12/2018: [How I took my first loan on Ethereum Blockchain](https://medium.com/instadapp/first-loan-355d3c84d0ae) by Vishva Dave
 
 ## Fund Raise Announcements
-- [InstaDApp DeFi Site Raises $2.4 Million From Prominent Crypto Investors](https://www.coindesk.com/instadapp-defi-site-raises-2-4-million-from-prominent-crypto-investors?fbclid=IwAR0FNF-Lym0NhV8W4WoIPQlrwBbvka7MJEr3cJlCFW2Ej2lTfOoAlNGAFbg) by Brady Dale
-- [Coinbase, Pantera Capital Participate in $2.4M Seed Round of DeFi Startup](https://cointelegraph.com/news/coinbase-pantera-capital-participate-in-24m-seed-round-of-defi-startup) by Ana Alexandre
-- [InstaDApp Raises $2.4 Million from Pantera, Coinbase](https://www.financemagnates.com/cryptocurrency/news/instadapp-raises-2-4-million-from-pantera-coinbase) by Arnab Shome
-- [DeFi portal InstaDApp raises $2.4M in seed funding](https://www.theblockcrypto.com/linked/41700/defi-portal-instadapp-raises-2-4m-in-seed-funding) by Steven Zheng
-- [DeFi portal InstaDApp raises $2.4 million in seed round](https://cryptoslate.com/defi-portal-instadapp-raises-2-4-million-in-seed-round) by Mitchell Moos
-- [Funding alert: Blockchain startup InstaDApp raises $2.4M led by Pantera Capital](https://yourstory.com/2019/10/funding-blockchain-startup-instadapp-pantera-capital-defi-platform) by Vishal Krishna
+- [InstaDApp DeFi Site Raises $2.4 Million From Prominent Crypto Investors](https://www.coindesk.com/instadapp-defi-site-raises-2-4-million-from-prominent-crypto-investors?fbclid=IwAR0FNF-Lym0NhV8W4WoIPQlrwBbvka7MJEr3cJlCFW2Ej2lTfOoAlNGAFbg) by Brady Dale (CoinDesk)
+- [Coinbase, Pantera Capital Participate in $2.4M Seed Round of DeFi Startup](https://cointelegraph.com/news/coinbase-pantera-capital-participate-in-24m-seed-round-of-defi-startup) by Ana Alexandre (CoinTelegrapgh)
+- [InstaDApp Raises $2.4 Million from Pantera, Coinbase](https://www.financemagnates.com/cryptocurrency/news/instadapp-raises-2-4-million-from-pantera-coinbase) by Arnab Shome (Finance Magnates)
+- [DeFi portal InstaDApp raises $2.4M in seed funding](https://www.theblockcrypto.com/linked/41700/defi-portal-instadapp-raises-2-4m-in-seed-funding) by Steven Zheng (The Block)
+- [DeFi portal InstaDApp raises $2.4 million in seed round](https://cryptoslate.com/defi-portal-instadapp-raises-2-4-million-in-seed-round) by Mitchell Moos (Cryptoslate)
+- [Funding alert: Blockchain startup InstaDApp raises $2.4M led by Pantera Capital](https://yourstory.com/2019/10/funding-blockchain-startup-instadapp-pantera-capital-defi-platform) by Vishal Krishna (YourStory)
 
 ## Podcasts and Interviews
 - [InstaDApp with Sowmay Jain](https://podcasts.apple.com/us/podcast/episode-1-instadapp-with-sowmay-jain/id1457082835?i=1000433891759) by Wizard of DApps
@@ -50,7 +50,8 @@ Below is a collection of data and information for anyone interested in exploring
 
 
 ## Security Audits
-Audit by OpenZepplin Security
+We take security very seriously, we will continue to have regular audits to ensure complete security. 
+> Audit by OpenZepplin Security
 - [InstaDApp Audit](https://blog.openzeppelin.com/instadapp-audit/)
 - [InstaDApp Audit Summary](https://blog.openzeppelin.com/instadapp-audit-summary/)
 
