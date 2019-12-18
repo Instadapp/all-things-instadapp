@@ -18,7 +18,6 @@ Below is a collection of data and information for anyone interested in exploring
 
 
 ## Articles
-- 4/12/2019: [India’s Neo-Banks: What’s So ‘Neo’ About Them?](https://www.bloombergquint.com/business/fintech-news-indias-neo-banks-whats-so-neo-about-them) Copyright © BloombergQuint by Advait Rao Palepu
 - 13/11/2019: [MCD Migration for Compound Users and Whale CDPs](https://medium.com/instadapp/mcd-migration-70782c9e6730) by Sowmay Jain
 - 12/11/2019: [WeTrust DApp Spotlight: InstaDApp](https://blog.wetrust.io/wetrust-dapp-spotlight-2-instadapp-f583cf7217ed) by Patrick Long
 - 25/10/2019: [The 19 and 21 Year-Old Crypto Native Brothers Rebuilding Finance](https://thedefiant.substack.com/p/the-19-and-21-year-old-crypto-native-552) by Camila Russo 
