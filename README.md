@@ -57,6 +57,7 @@ We take security very seriously, we will continue to have regular audits to ensu
 
 
 ## Timeline of Events
+- 03/12/2019: [Maker-Compound Migration Bridge makes InstaDApp the no. 1 MKR burner](https://twitter.com/ASvanevik/status/1201683380825395207)
 - 28/11/2019: [Launching Compound Finance Migration Bridge](https://twitter.com/InstaDApp/status/1200079870014849024)
 - 20/11/2019: [Launching "Dai Migration Tools" for Giant CDPs](https://twitter.com/InstaDApp/status/1196855953649369088)
 - 18/11/2019: [Launched support for MCD](https://twitter.com/InstaDApp/status/1196457416147161091)
