@@ -62,7 +62,7 @@ We take security very seriously, we will continue to have regular audits to ensu
 - 20/11/2019: [Launching "Dai Migration Tools" for Giant CDPs](https://twitter.com/InstaDApp/status/1196855953649369088)
 - 18/11/2019: [Launched support for MCD](https://twitter.com/InstaDApp/status/1196457416147161091)
 - 30/10/2019: [Introducing support for all CDPs](https://twitter.com/InstaDApp/status/1189261600378806272)
-- 01/10/2019: [Raised $2.4M in seed funding](https://www.coindesk.com/instadapp-defi-site-raises-2-4-million-from-prominent-crypto-investors?utm_source=twitter&utm_medium=coindesk&utm_term=&utm_content=&utm_campaign=Organic%20)
+- 01/10/2019: [Raised $2.4M in seed funding](https://twitter.com/InstaDApp/status/1179045745921363968)
 - 18/09/2019: [InstaDApp smart contracts audited](https://twitter.com/OpenZeppelin/status/1159893109439959040)
 - 26/07/2019: [Launched "Lend and Earn"](https://twitter.com/InstaDApp/status/1154460231373508608)
 - 20/07/2019: [Milestone: Ranked #3 on DefiPulse](https://twitter.com/scott_lew_is/status/1152280683290734593)
