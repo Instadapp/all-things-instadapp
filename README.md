@@ -1,6 +1,6 @@
 # All Things InstaDApp 
 
-InstaDApp is built with the idea to simplify Decentralized Finance for the masses. InstaDApp is a user interface that allows individuals to track their blockchain assets distributed over different protocols and move them around based on financial standards and live market data.
+InstaDApp is built with the idea to simplify Decentralized Finance for the masses. InstaDApp is a user interface that provides an underlying smart wallet layer which allows users to track their assets distributed over different protocols and move them around based on financial standards and live market data.
 
 Below is a collection of data and information for anyone interested in exploring InstaDApp from all around the web, this will be updated regularly.
 
