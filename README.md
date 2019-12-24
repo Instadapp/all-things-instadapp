@@ -18,6 +18,7 @@ Below is a collection of data and information for anyone interested in exploring
 
 
 ## Articles
+- 24/12/2019: [2019 Highlights Recap](https://medium.com/instadapp/2019-highlights-813047369200)
 - 13/11/2019: [MCD Migration for Compound Users and Whale CDPs](https://medium.com/instadapp/mcd-migration-70782c9e6730) by Sowmay Jain
 - 12/11/2019: [WeTrust DApp Spotlight: InstaDApp](https://blog.wetrust.io/wetrust-dapp-spotlight-2-instadapp-f583cf7217ed) by Patrick Long
 - 25/10/2019: [The 19 and 21 Year-Old Crypto Native Brothers Rebuilding Finance](https://thedefiant.substack.com/p/the-19-and-21-year-old-crypto-native-552) by Camila Russo 
@@ -57,6 +58,7 @@ OpenZepplin
 
 
 ## Timeline of Events
+- 24/12/2019: [Looking back at 2019 highlights](https://medium.com/instadapp/2019-highlights-813047369200)
 - 18/12/2019: [Protocol Bridge updated with MCD](https://twitter.com/InstaDApp/status/1207349250763493378)
 - 03/12/2019: [Maker-Compound Migration Bridge makes InstaDApp the no. 1 MKR burner](https://twitter.com/ASvanevik/status/1201683380825395207)
 - 28/11/2019: [Launching Compound Finance Migration Bridge](https://twitter.com/InstaDApp/status/1200079870014849024)
