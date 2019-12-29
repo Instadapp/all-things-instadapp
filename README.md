@@ -58,7 +58,7 @@ OpenZepplin
 
 
 ## Timeline of Events
-- 24/12/2019: [Looking back at 2019 highlights](https://medium.com/instadapp/2019-highlights-813047369200)
+- 24/12/2019: [Looking back at 2019 highlights](https://twitter.com/InstaDApp/status/1209150339443838976)
 - 18/12/2019: [Protocol Bridge updated with MCD](https://twitter.com/InstaDApp/status/1207349250763493378)
 - 03/12/2019: [Maker-Compound Migration Bridge makes InstaDApp the no. 1 MKR burner](https://twitter.com/ASvanevik/status/1201683380825395207)
 - 28/11/2019: [Launching Compound Finance Migration Bridge](https://twitter.com/InstaDApp/status/1200079870014849024)
