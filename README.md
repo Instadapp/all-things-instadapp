@@ -18,6 +18,7 @@ Below is a collection of data and information for anyone interested in exploring
 
 
 ## Articles
+- 14/01/2020: [Redesigning InstaDApp — A UX/UI Case Study](https://medium.com/@ultimstudio/redesigning-the-instadapp-dashboard-a-ux-case-study-c4a55728b5b7) by Ultim Studio
 - 24/12/2019: [2019 Highlights Recap](https://medium.com/instadapp/2019-highlights-813047369200)
 - 13/11/2019: [MCD Migration for Compound Users and Whale CDPs](https://medium.com/instadapp/mcd-migration-70782c9e6730) by Sowmay Jain
 - 12/11/2019: [WeTrust DApp Spotlight: InstaDApp](https://blog.wetrust.io/wetrust-dapp-spotlight-2-instadapp-f583cf7217ed) by Patrick Long
@@ -58,6 +59,9 @@ OpenZepplin
 
 
 ## Timeline of Events
+- 15/01/2020: [Milestone: Total value locked on InstaDApp crosses $50M](https://defipulse.com/instadapp)
+- 14/01/2020: [Ultim Studio does a UX/UI Case Study on InstaDApp](https://medium.com/@ultimstudio/redesigning-the-instadapp-dashboard-a-ux-case-study-c4a55728b5b7)
+- 11/01/2020: [Frontier Wallet integrates InstaDApp](https://twitter.com/Frontierwallet/status/1215901812202434560)
 - 24/12/2019: [Looking back at 2019 highlights](https://twitter.com/InstaDApp/status/1209150339443838976)
 - 18/12/2019: [Protocol Bridge updated with MCD](https://twitter.com/InstaDApp/status/1207349250763493378)
 - 03/12/2019: [Maker-Compound Migration Bridge makes InstaDApp the no. 1 MKR burner](https://twitter.com/ASvanevik/status/1201683380825395207)
