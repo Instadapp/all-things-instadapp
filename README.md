@@ -53,7 +53,6 @@ Below is a collection of data and information for anyone interested in exploring
 ## Security Audits
 We take security very seriously, we will continue to have regular audits to ensure complete security. 
 #### Audit by OpenZepplin Security 
-OpenZepplin 
 - [InstaDApp Audit](https://blog.openzeppelin.com/instadapp-audit/)
 - [InstaDApp Audit Summary](https://blog.openzeppelin.com/instadapp-audit-summary/)
 
