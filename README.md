@@ -58,8 +58,8 @@ We take security very seriously, we will continue to have regular audits to ensu
 
 
 ## Timeline of Events
+- 17/01/2020: [Added WalletConnect integration on InstaDApp](https://twitter.com/InstaDApp/status/1217863001673363456)
 - 15/01/2020: [Milestone: Total value locked on InstaDApp crosses $50M](https://defipulse.com/instadapp)
-- 14/01/2020: [Ultim Studio does a UX/UI Case Study on InstaDApp](https://medium.com/@ultimstudio/redesigning-the-instadapp-dashboard-a-ux-case-study-c4a55728b5b7)
 - 11/01/2020: [Frontier Wallet integrates InstaDApp](https://twitter.com/Frontierwallet/status/1215901812202434560)
 - 24/12/2019: [Looking back at 2019 highlights](https://twitter.com/InstaDApp/status/1209150339443838976)
 - 18/12/2019: [Protocol Bridge updated with MCD](https://twitter.com/InstaDApp/status/1207349250763493378)
