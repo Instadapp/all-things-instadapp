@@ -18,6 +18,7 @@ Below is a collection of data and information for anyone interested in exploring
 
 
 ## Articles
+- 07/02/2020: [How to get started with DeFi: A guide from “Huh?” to “Wow!”](https://medium.com/instadapp/how-to-get-started-with-defi-a-guide-from-huh-to-wow-5d49da0c43f5)
 - 14/01/2020: [Redesigning InstaDApp — A UX/UI Case Study](https://medium.com/@ultimstudio/redesigning-the-instadapp-dashboard-a-ux-case-study-c4a55728b5b7) by Ultim Studio
 - 24/12/2019: [2019 Highlights Recap](https://medium.com/instadapp/2019-highlights-813047369200)
 - 13/11/2019: [MCD Migration for Compound Users and Whale CDPs](https://medium.com/instadapp/mcd-migration-70782c9e6730) by Sowmay Jain
