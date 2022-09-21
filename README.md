@@ -7,6 +7,9 @@ Below is a collection of data and information for anyone interested in exploring
 ## Official Property
 - [Website](https://instadapp.io/)
 - [GitHub](https://github.com/InstaDApp) 
+- [Instadapp Guides](https://guides.instadapp.io/)
+- [Instadapp Docs](https://instadapp-3.gitbook.io/instadapp-eng/)
+- [All about Instadapp Lite](https://lite.guides.instadapp.io/)
 
 ## Official Handles
 - [Twitter](https://twitter.com/InstaDApp)
@@ -15,7 +18,7 @@ Below is a collection of data and information for anyone interested in exploring
 - [Medium](https://medium.com/instadapp)
 - [Email](info@instadapp.io)
 - [Newsletter](https://instadapp.io/newsletter/)
-
+- [Community Codex](https://codex.instadapp.io/)
 
 ## Articles
 - 01/03/2020: [DeFi Smart Accounts](https://blog.instadapp.io/defi-smart-accounts/) by Ming
@@ -60,7 +63,8 @@ We take security very seriously, we will continue to have regular audits to ensu
 
 
 ## Timeline of Events
-- 17/01/2020: [Added WalletConnect integration on InstaDApp](https://twitter.com/InstaDApp/status/1217863001673363456)
+- 16/01/2020: [Added WalletConnect integration on InstaDApp](https://twitter.com/InstaDApp/status/1217863001673363456)
+- 16/01/2020: [Instadapp sponsered ETH India 2020](https://twitter.com/ETHIndiaco/status/1217817849806245901?s=20&t=42lIbIyUC-8UviLPXCPN-A)
 - 15/01/2020: [Milestone: Total value locked on InstaDApp crosses $50M](https://defipulse.com/instadapp)
 - 11/01/2020: [Frontier Wallet integrates InstaDApp](https://twitter.com/Frontierwallet/status/1215901812202434560)
 - 24/12/2019: [Looking back at 2019 highlights](https://twitter.com/InstaDApp/status/1209150339443838976)
